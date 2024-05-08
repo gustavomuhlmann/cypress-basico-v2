@@ -6,7 +6,6 @@
   "scripts": {
     "cy:open": "cypress open",
     "test": "cypress run"
-    
   },
   "repository": {
     "type": "git",
@@ -21,5 +20,8 @@
   ],
   "author": "Walmyr Filho <wlsf82@gmail.com> (https://walmyr.dev/)",
   "license": "MIT",
-  "homepage": "https://github.com/wlsf82/cypress-basico-v2#readme"
+  "homepage": "https://github.com/wlsf82/cypress-basico-v2#readme",
+  "devDependencies": {
+    "cypress": "^13.9.0"
+  }
 }
